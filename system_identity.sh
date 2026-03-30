@@ -1,4 +1,4 @@
-#!/bin/bash
+%%bash
 STUDENT_NAME="ROHITH RAJ R S (24MEI10069)"
 SOFTWARE_CHOICE="Git"
 KERNEL=$(uname -r)
