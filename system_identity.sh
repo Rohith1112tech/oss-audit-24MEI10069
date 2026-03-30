@@ -1,4 +1,5 @@
-%%bash
+#!/bin/bash
+# Script 1: System Identity Report
 STUDENT_NAME="ROHITH RAJ R S (24MEI10069)"
 SOFTWARE_CHOICE="Git"
 KERNEL=$(uname -r)
@@ -9,7 +10,6 @@ DISTRO=$(cat /etc/os-release | grep PRETTY_NAME | cut -d= -f2)
 echo "================================"
 echo " Open Source Audit — $STUDENT_NAME"
 echo "================================"
-echo "Roll No : 24MEI10069"
 echo "Software: $SOFTWARE_CHOICE"
 echo "Kernel  : $KERNEL"
 echo "User    : $USER_NAME"
