@@ -1,4 +1,5 @@
-%%bash
+#!/bin/bash
+# Script 1: System Identity Report
 PACKAGE="git"
 echo "================================"
 echo " FOSS Package Inspector"
