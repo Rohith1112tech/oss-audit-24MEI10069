@@ -1,4 +1,5 @@
-%%bash
+#!/bin/bash
+# Script 1: System Identity Report
 echo "================================"
 echo " Open Source Manifesto Generator"
 echo " Student: ROHITH RAJ R S"
