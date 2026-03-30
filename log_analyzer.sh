@@ -1,4 +1,5 @@
-%%bash
+#!/bin/bash
+# Script 1: System Identity Report
 LOGFILE="test.log"
 KEYWORD="error"
 COUNT=0
